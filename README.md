@@ -5,4 +5,4 @@ Demonstrates Flink Kafka connector
 There are two modes of serializing the data. Compressed and non compressed. 
 Lz4 compression is as of now supported.
 
- 
+Use FileDeserializationSchema as the deserializer schema for FlinkKafkaConsumer010.
